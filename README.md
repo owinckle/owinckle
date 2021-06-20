@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1>Hello World!&nbsp;<img src="https://github.com/alok722/alok722/blob/master/images/gif/Earth.gif" width="24px"></h1>
 
-<!--
-**owinckle/owinckle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>I'm <a href="https://linkedin.com/in/alok722" target="_blank">Alok Raj </a><img src="https://github.com/alok722/alok722/blob/master/images/gif/Hi.gif" width="24px"></h2>
 
-Here are some ideas to get you started:
+[![Website](https://img.shields.io/website?label=alokraj.tech&style=for-the-badge&url=https://alokraj.tech)](https://alokraj.tech)
+[![Website](https://img.shields.io/website?label=opendevs.in&style=for-the-badge&url=https://opendevs.in)](https://opendevs.in)
+[![Twitter Follow](https://img.shields.io/twitter/follow/alok722?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Falok722&screen_name=alok722)
+[![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/alok722)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alok722&label=Profile%20views&color=0e75b6&style=flat" alt="alok722" /> </p>
+
+Current Web UI Developer at Globant with 2+ years of experience specializing in the JavaScript technologies. Super nerd who loves JavaScript
+& its frameworks, libraries and enjoys to customize all of the development environment. Interested in devising a better problem‑solving
