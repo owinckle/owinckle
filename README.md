@@ -9,7 +9,7 @@ Freelance Fullstack Web & Software developer with 4+ years of experience. Specia
 
 ## I'm French, a Python Developer, and maybe your future collaborator!🙌
 
-- 🔥 I'm the founder of Adminion, a project management SAAS. [Adminion](https://myadminion.com) 
+- 🔥 I'm the founder of [XMinion](https://www.xminion.com) , a project management SAAS.
 - 🌱 I’m a Python enthusiast and currently learning React. 🧡
 - 👯 I’m looking to collaborate with creative and ambitious people.
 - ⚡ Fun fact: I love animes.
