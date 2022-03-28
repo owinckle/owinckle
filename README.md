@@ -2,14 +2,14 @@
 
 <h2>I'm <a href="https://www.linkedin.com/in/ocean-winckler-26998a144/" target="_blank">Ocean Winckler </a><img src="https://github.com/alok722/alok722/blob/master/images/gif/Hi.gif" width="24px"></h2>
 
-[![Website](https://img.shields.io/website?label=xminion.com&style=for-the-badge&url=https://www.xminion.com)](https://www.xminion.com)
+[![Website](https://img.shields.io/website?label=xminion.com&style=for-the-badge&url=https://teamsight.gg)](https://teamsight.gg)
 [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ocean-winckler-26998a144/)
 
 Freelance Fullstack Web & Software developer with 4+ years of experience. Specialized in Python and proficient in React and Django. I love experiencing with new technologies all the time and improving my skills to deliver the best possible products to my clients.
 
 ## I'm French, a Python Developer, and maybe your future collaborator!🙌
 
-- 🔥 I'm the founder of [XMinion](https://www.xminion.com) , a project management SAAS.
+- 🔥 I'm the founder of [Teamsight](https://teamsight.gg) , a management web app for E-Sport teams.
 - 🌱 I’m a Python enthusiast and currently learning React. 🧡
 - 👯 I’m looking to collaborate with creative and ambitious people.
 - ⚡ Fun fact: I love animes.
