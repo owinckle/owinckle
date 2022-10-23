@@ -9,7 +9,7 @@ Freelance Fullstack Web & Software developer with 4+ years of experience. Specia
 
 ## I'm French, a Python Developer, and maybe your future collaborator!🙌
 
-- 🔥 I'm the founder of [Teamsight](https://teamsight.gg) , a management web app for E-Sport teams.
+- 🔥 I'm the founder of [LettrInbox](https://lettrinbox.com) , an email client dedicated to newsletters.
 - 🌱 I’m a Python enthusiast and currently learning React. 🧡
 - 👯 I’m looking to collaborate with creative and ambitious people.
 - ⚡ Fun fact: I love animes.
