@@ -2,9 +2,6 @@
 
 <h2>I'm <a href="https://www.linkedin.com/in/ocean-winckler-26998a144/" target="_blank">Ocean Winckler </a><img src="https://github.com/alok722/alok722/blob/master/images/gif/Hi.gif" width="24px"></h2>
 
-[![Website](https://img.shields.io/website?label=lettrinbox.com&style=for-the-badge&url=https://lettrinbox.com)](https://lettrinbox.com)
-[![Website](https://img.shields.io/website?label=lettrlist.com&style=for-the-badge&url=https://lettrlist.com)](https://lettrlist.com)
-[![Website](https://img.shields.io/website?label=synctivo.com&style=for-the-badge&url=https://lettrinbox.com)](https://synctivo.com)
 [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ocean-winckler-26998a144/)
 
 Freelance Fullstack Web & Software developer with 4+ years of experience. Specialized in Python and proficient in React and Django. I love experiencing with new technologies all the time and improving my skills to deliver the best possible products to my clients.
