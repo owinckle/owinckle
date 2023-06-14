@@ -8,11 +8,6 @@ Freelance Fullstack Web & Software developer with 4+ years of experience. Specia
 
 ## I'm French, a Python Developer, and maybe your future collaborator!🙌
 
-- 🔥 I'm the founder of [LettrInbox](https://lettrinbox.com) , an email client dedicated to newsletters.
-- 🌱 I’m a Python enthusiast and currently learning React. 🧡
-- 👯 I’m looking to collaborate with creative and ambitious people.
-- ⚡ Fun fact: I love animes.
-
 ### 😎 Languages and Tools
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
