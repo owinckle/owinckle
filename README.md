@@ -6,6 +6,8 @@
 
 Freelance Fullstack Web & Software developer with 4+ years of experience, currently working at Airbus/Akkodis. Specialized in Python and proficient in React and Django. I love experiencing with new technologies all the time and improving my skills to deliver the best possible products to my clients.
 
+Founded <a href="https://fakerapi.com">Faker API</a> 
+
 ## I'm French, a Python Developer, and maybe your future collaborator!🙌
 
 ### 😎 Languages and Tools
