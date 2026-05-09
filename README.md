@@ -6,7 +6,8 @@
 
 Freelance Fullstack Web & Software developer with 6+ years of experience, previously at Airbus/Akkodis. Specialized in Python and proficient in React and Django. I love experiencing with new technologies all the time and improving my skills to deliver the best possible products to my clients.
 
-Founded <a href="https://manyresumes.com">manyresumes</a> & <a href="https://subsnag">SubSnag</a>
+Founded <a href="https://manyresumes.com">manyresumes</a> & <a href="https://subsnag.com">SubSnag</a>.
+Currently building a portfolio of Chrome extensions: <a href="https://arkalysextensions.com">ArkalysExtensions</a>.
 
 ## I'm French, a Fullstack Developer, and maybe your future collaborator!🙌
 
